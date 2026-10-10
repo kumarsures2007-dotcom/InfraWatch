@@ -1,0 +1,23 @@
+==========================================
+       InfraWatch Monitoring Report
+==========================================
+Hostname: suresh
+Date: 2026-10-10 16:03:08
+
+----- DISK MONITORING -----
+Root disk usage: 12%
+OK: Disk usage is normal.
+
+----- MEMORY MONITORING -----
+Memory usage: 25%
+OK: Memory usage is normal.
+
+----- SYSTEM UPTIME -----
+ 16:03:08 up 27 min,  1 user,  load average: 0.13, 0.17, 0.24
+
+==========================================
+       Monitoring Completed
+==========================================
+
+Report saved to: /home/suresh/InfraWatch/reports/report_20261010_160308.txt
+Log saved to: /home/suresh/InfraWatch/logs/monitoring.log
